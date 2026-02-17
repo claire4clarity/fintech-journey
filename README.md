@@ -5,6 +5,7 @@ Welcome to the documentation for **Hermes FG**, a fictional payment gateway. Thi
 
 ### Table of Contents
 * [Glossary](./glossary.md) - FinTech terms used by Hermes FG.
+* [ChronosVault Quick Guide](./chronos-vault.md) - How to set up a banking transfer using Hermes FG.
 
 ### Featured Writing Sample: Impact of Greek Authors on Medieval Thought
 
