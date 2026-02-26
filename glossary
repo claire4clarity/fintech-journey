@@ -20,11 +20,8 @@ A set of protocols that allows two software applications to communicate with eac
 A unique identifier (a long string of random letters and numbers) used to authenticate a user, developer, or calling program to an API. It acts as both a Username and a Password rolled into one. When your code makes a request, it includes this key. The server checks its ledger; if the key matches, the gates open. In finance, API keys are often restricted. A key might have "Read-Only" permission (can see a balance) or "Write" permission (can move money)
 
 ### OAuth 2.0
+
 OAuth 2.0 is the industry-standard authorization framework, released in 2012. It allows third-party applications to access user data, such as Google, Facebook, or GitHub profiles, without exposing user passwords.
-
-### Webhooks
-
-An automated, event-driven message that pushes data from one application to another when a specific event occurs; enabling real-time data transfer without require continuous polling.  They are often called “reverse APIs”.  FinTech Use Case: When a customer makes a purchase on an e-commerce site, Stripe uses a Webhook to tell the merchant's website, "The payment was successful! You can now ship the item.
 
 ### Sandbox
 
@@ -38,3 +35,16 @@ The Developer Sandbox is a mirror-image testing environment provided by an API c
 
 A type of cryptocurrency whose value is "pegged" or tied to another asset, such as the U.S. Dollar, gold, or a basket of currencies, to maintain a steady price. Most cryptocurrencies (like Bitcoin) fluctuate wildly. If you buy a coffee for 0.0002 BTC today, that same amount might be worth a steak dinner tomorrow. Stablecoins allow for digital payments without the "price-swing" anxiety.
 
+### Tokenization
+
+Replaces sensitive data (credit or debit card numbers) with tokens (unique placeholders) or converts ownership of physical/digital assets into blockchain-based tokens. The benefits are enchanced security, increased liquidity, efficinecy and fractional ownership. 
+
+#### Types of Tokenization
+
+* Payment -Replaces credit card numbers with tokens for secure transactions.
+* Asset (Blockchain)- Convert tangible (real estate or high value item) or intangile (IP) assets into security tokens.  Makes it easier to purchase and sell high value goods.
+* Database/Data -Replaces sensitive persona  data (PII) to ensure security in compliance with regulations. 
+
+### Webhooks
+
+An automated, event-driven message that pushes data from one application to another when a specific event occurs; enabling real-time data transfer without require continuous polling.  They are often called “reverse APIs”.  FinTech Use Case: When a customer makes a purchase on an e-commerce site, Stripe uses a Webhook to tell the merchant's website, "The payment was successful! You can now ship the item.
