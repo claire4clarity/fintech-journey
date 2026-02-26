@@ -8,5 +8,4 @@ date: 26/02/26
 
 [Stripe API Tour](https://docs.stripe.com/payments-api/tour)
 
-[Stripe Glossary](https://docs.stripe.com/glossary
-)
+[Stripe Glossary](https://docs.stripe.com/glossary)
