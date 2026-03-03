@@ -1,11 +1,23 @@
+---
+title: ReadMe
+author: Claire(Claire4Clarity)
+date: 2026/02/14
+status: In-Progress
+type: Portfolio
+---
+
+
 ## Hermes FG: Financial Infrastructure Documentation
 
 ### Introduction
+
 Welcome to the documentation for **Hermes FG**, a fictional payment gateway. This repository demonstrates my transition from academic history to technical writing.
 
 ### Table of Contents
+
 * [Glossary](./glossary.md) - FinTech terms used by Hermes FG.
 * [ChronosVault Quick Guide](./chronos-vault.md) - How to set up a banking transfer using Hermes FG.
+* [Tutorial: Creating an Account at Hermes FG](./account-setup.md): A short tutorial on how to open an account at Hermes FG to highlight Diátaxis understanding.
 
 ### Featured Writing Sample: Impact of Greek Authors on Medieval Thought
 
@@ -26,6 +38,7 @@ Although the Catholic Church dominated education, many Pagan authors were transl
 | William of Conches | 1090-1154 CE | Emphasized the study of nature and physical causes |
 
 For more information, [listen to BBC In Our Time](https://www.bbc.co.uk/programmes/b07z6vzq).
+
 ### Visualizing the Scriptorium
 
 ![A miniature showing the copying of a manuscript in a scriptorium](https://upload.wikimedia.org/wikipedia/commons/4/4b/BL_Royal_Vincent_of_Beauvais.jpg)
@@ -33,8 +46,10 @@ For more information, [listen to BBC In Our Time](https://www.bbc.co.uk/programm
 ### Digital Archive Command
 
 To save these notes, I used the following command:
+
 ```bash
 git commit -m "history notes"
+
 ```
 
 ## The Toolkit
@@ -42,7 +57,7 @@ git commit -m "history notes"
 * **Writing:** Markdown, Active Voice, DITA/Style Guides.
 * **Technical:** VSCode, Git Bash, GitHub, Notion.
 * **Domain:** Payments Infrastructure, Banking Rails.
+
 ---
 
 ### This is a journey and not a race so please check back weekly for updates or connect with me on [LinkedIn](https://www.linkedin.com/in/claire4clarity/).
-
