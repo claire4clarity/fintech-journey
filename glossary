@@ -9,6 +9,7 @@ category: Reference
 ## FinTech Lexicon
 
 ### Acquiring Bank
+
 A financial institution that maintains a merchant's bank account. They are the "muscle" behind the merchant, enabling them to accept credit and debit card payments by acting as a middleman between the merchant and the card networks (like Visa or Mastercard).
 
 ### Application Programming Interface (API)
@@ -37,13 +38,13 @@ A type of cryptocurrency whose value is "pegged" or tied to another asset, such 
 
 ### Tokenization
 
-Replaces sensitive data (credit or debit card numbers) with tokens (unique placeholders) or converts ownership of physical/digital assets into blockchain-based tokens. The benefits are enchanced security, increased liquidity, efficinecy and fractional ownership. 
+Replaces sensitive data (credit or debit card numbers) with tokens (unique placeholders) or converts ownership of physical/digital assets into blockchain-based tokens. The benefits are enchanced security, increased liquidity, efficinecy and fractional ownership.
 
 #### Types of Tokenization
 
 * Payment -Replaces credit card numbers with tokens for secure transactions.
 * Asset (Blockchain)- Convert tangible (real estate or high value item) or intangile (IP) assets into security tokens.  Makes it easier to purchase and sell high value goods.
-* Database/Data -Replaces sensitive persona  data (PII) to ensure security in compliance with regulations. 
+* Database/Data -Replaces sensitive persona  data (PII) to ensure security in compliance with regulations.
 
 ### Webhooks
 

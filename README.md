@@ -32,9 +32,9 @@ Although the Catholic Church dominated education, many Pagan authors were transl
 [^1] Today, he is considered a fictional person; in Medieval Europe, he was considered to be a real person and the tutor of Moses from the Hebrew Bible or the Old Testament.
 
 | Name | Years | Known For |
-| :--- | :---: | :---|
-|Averroes | 1126-1198 CE | Extensive, detailed commentaries on Aristotle |
-| Maimonides | 1135-1204 CE| Sought to reconcile Aristotelian philosophy with Jewish scripture |
+| :--- | :---: | :--- |
+| Averroes | 1126-1198 CE | Extensive, detailed commentaries on Aristotle |
+| Maimonides | 1135-1204 CE | Sought to reconcile Aristotelian philosophy with Jewish scripture |
 | William of Conches | 1090-1154 CE | Emphasized the study of nature and physical causes |
 
 For more information, [listen to BBC In Our Time](https://www.bbc.co.uk/programmes/b07z6vzq).
@@ -60,4 +60,4 @@ git commit -m "history notes"
 
 ---
 
-### This is a journey and not a race so please check back weekly for updates or connect with me on [LinkedIn](https://www.linkedin.com/in/claire4clarity/).
+### This is a journey and not a race so please check back weekly for updates or connect with me on [LinkedIn](https://www.linkedin.com/in/claire4clarity/)
